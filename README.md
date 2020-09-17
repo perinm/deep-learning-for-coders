@@ -1,5 +1,8 @@
 # deep-learning-for-coders
 In this repo I publish my answers to the exercises on the "Deep Learning for Coders" book, by Jeremy Howard, founder of Fast.ai
 
+Meetings info:
+https://trello.com/b/SOgQILab/fastai-2020-2-semestre/calendar/2020/11
+
 Link for the book:
 https://www.amazon.com.br/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527
