@@ -1,11 +1,19 @@
 1. Do you need these for deep learning?
+
 • Lots of math T/F
+
 False
+
 • Lots of data T/F
+
 False
+
 • Lots of expensive computers T/F
+
 False
+
 • A PhD T/F
+
 False
 
 2. Name five areas where deep learning is now the best tool in the world.
