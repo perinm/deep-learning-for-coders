@@ -77,6 +77,14 @@ layers?
 28. Are image models useful only for photos?
 29. What is an architecture?
 30. What is segmentation?
+
+It's a class of AI problemas that focus on the defining what each pixel in the image represents, or what each pixel is a part of some object, and this object's representation.
+
 31. What is y_range used for? When do we need it?
 32. What are hyperparameters?
+
+It's every variable that changes how the algorithm learn's some behavior with data.
+That includes the quantity of layers and neurons, the value of learning rate, the optimization algorithm, it's architecture.
+
 33. What’s the best way to avoid failures when using AI in an organization?
+
