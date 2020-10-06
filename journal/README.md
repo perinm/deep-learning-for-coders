@@ -1,4 +1,4 @@
-# First week - Chapter 1 - 13/09 ~ 19/09:
+# 1st week - Chapter 1 - 13/09 ~ 19/09:
 
 This week I read the first chapter and I am progressing on the exercises.
 
@@ -8,7 +8,7 @@ mouse draw movement or bits of malware files.
 I am sincerely curious if I will be able to detect facial micro-expression for detection of genuine emotions of people. I think I can use general emotion detection
 on facial expressions and only detect anomalies or outlies in a time-series of facial expression.
 
-# Second week - Chapter 2 - 20/09 ~ 06/10
+# 2nd week - Chapter 2 - 20/09 ~ 06/10
 
 ### Highlights:
 It was really cool to know how to get a free api token at azure so that i can make my own datasets for computer vision with bing image search.
@@ -41,4 +41,4 @@ There was also a citation to voila library, which allows you to create a webpage
 And that last important point so far, the importance of PKL to save your models. This way of saving allows the DL developer to save the architecture, weights, and transformation used upon data so that it guarantees consistency of model.
 
 ##### Chapter 3 will be skipped but will be here somewhere afterwards
-# Thrid week - Chapter 4 - 06/10 ~ 08/10
+# 4th week - Chapter 4 - 06/10 ~ 08/10
