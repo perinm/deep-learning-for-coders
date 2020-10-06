@@ -40,5 +40,5 @@ There was also a citation to voila library, which allows you to create a webpage
 
 And that last important point so far, the importance of PKL to save your models. This way of saving allows the DL developer to save the architecture, weights, and transformation used upon data so that it guarantees consistency of model.
 
-##### Chapter will be skipped but will be here somewhere afterwards
-# 3rd week - Chapter 4 - 06/10 ~ 08/10
+##### Chapter 3 will be skipped but will be here somewhere afterwards
+# Thrid week - Chapter 4 - 06/10 ~ 08/10
