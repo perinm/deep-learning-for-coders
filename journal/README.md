@@ -42,3 +42,9 @@ And that last important point so far, the importance of PKL to save your models.
 
 ##### Chapter 3 will be skipped but will be here somewhere afterwards
 # 3rd week - Chapter 4 - 06/10 ~ 08/10
+
+Tensor Jargon:
+
+"Rank" is equivalent to number of dimensions or axes.
+
+"Shape" is the each axis's size
