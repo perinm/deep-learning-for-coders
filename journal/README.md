@@ -48,3 +48,5 @@ Tensor Jargon:
 "Rank" is equivalent to number of dimensions or axes.
 
 "Shape" is the each axis's size
+
+In order to avoid ambiguities it's best practice stick to the terms of rank, axis and length.
