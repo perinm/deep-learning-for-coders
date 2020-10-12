@@ -52,4 +52,5 @@ Tensor Jargon:
 In order to avoid ambiguities it's best practice stick to the terms of rank, axis and length.
 
 L1 norm: the mean of the absolute of all differences
+
 L2 norm or RMSE: the root of the mean of sqaures of differences
