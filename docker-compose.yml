@@ -1,9 +1,16 @@
-version: '3'
+version: '2.1'
 services:
     web:
+        privileged: True
+        devices:
+            - "/dev/kfd:/dev/kfd"
+            - "/dev/dri:/dev/dri"
+        group_add:
+            - video
         build: ./Dockerbuild
         image: fast.ai
         ports: 
             - "1337:1337"
         volumes:
-            - ./files:/files
+            - ./notebooks:/files
+#        command: ["--rm","--device=/dev/kfd","--device=/dev/dri","--group-add video"]
