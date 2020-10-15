@@ -3,12 +3,15 @@ MAINTAINER Lucas Manchine <lucasperinm@gmail.com>
 
 RUN apt-get update -y
 
-RUN python3.6 -m pip install --upgrade pip \
-    && python3.6 -m pip install fastai \
-    && python3.6 -m pip install --upgrade nbdev \
-    && python3.6 -m pip install --upgrade jupyter
+COPY requirements.txt /tmp
 
-RUN python3.6 -m pip install --upgrade python-dotenv
+RUN python3.6 -m pip install --upgrade pip \
+    && python3.6 -m pip install --upgrade --force-reinstall -r /tmp/requirements.txt
+#    && python3.6 -m pip install --upgrade fastai fastcore nbdev jupyter python-dotenv
+#    && python3.6 -m pip install --upgrade nbdev \
+#    && python3.6 -m pip install --upgrade jupyter
+
+#RUN python3.6 -m pip install --upgrade python-dotenv
 
 WORKDIR /files
 

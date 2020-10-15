@@ -1,2 +1,4 @@
 /notebooks/clean/.env
 /notebooks/.env
+/notebooks/clean/bears/*
+/notebooks/clean/export.pkl

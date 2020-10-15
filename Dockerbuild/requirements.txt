@@ -1,0 +1,5 @@
+fastai
+fastcore
+nbdev
+jupyter
+python-dotenv
