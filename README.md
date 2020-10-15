@@ -7,7 +7,7 @@ https://trello.com/b/SOgQILab/fastai-2020-2-semestre/calendar/2020/11
 Link for the book:
 https://www.amazon.com.br/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527
 
-### Instructions for rocm configuration on docker
+# Instructions for rocm configuration on docker
 
 Install docker, docker-compose in your machine.
 
